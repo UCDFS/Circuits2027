@@ -1,4 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "ENNOID") (type "Legacy") (uri "${KIPRJMOD}/ENNOID.lib") (options "") (descr ""))
-)
