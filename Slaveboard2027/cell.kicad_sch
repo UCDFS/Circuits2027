@@ -1396,7 +1396,7 @@
 			(uuid "7af3e2d7-b8fa-439b-8e93-1e873aa9610f")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "R15")
 					(unit 1)
@@ -1549,7 +1549,7 @@
 			(uuid "add5af76-4e83-4cda-8f52-c87fc1e5ec8f")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "C11")
 					(unit 1)
@@ -1640,7 +1640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0508_1220Metric"
 			(at 121.92 102.362 90)
 			(hide yes)
 			(show_name no)
@@ -1690,7 +1690,7 @@
 			(uuid "2112e070-ed36-4b25-b83b-83a01da761b4")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "R14")
 					(unit 1)
@@ -1783,7 +1783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TO_SOT_Packages_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 83.82 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1836,7 +1836,7 @@
 			(uuid "5b43ae63-ee3c-4010-b733-4f28a138fd0b")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "Q2")
 					(unit 1)
@@ -1977,7 +1977,7 @@
 			(uuid "d08c5b17-e0c8-4572-9c32-6dbbc7eaedb2")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "R13")
 					(unit 1)
@@ -2120,7 +2120,7 @@
 			(uuid "31675ddd-ef5e-4fa5-acbd-a3501abe39c0")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "D5")
 					(unit 1)
@@ -2248,7 +2248,7 @@
 			(uuid "5cf51b8f-688b-436b-ba39-8b253ee832c5")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "#PWR022")
 					(unit 1)
@@ -2391,7 +2391,7 @@
 			(uuid "69abbb32-c586-405e-b1f1-7a0e8da51fc3")
 		)
 		(instances
-			(project "Slaveboard_2027"
+			(project "TrialSlaveBoard"
 				(path "/a53ae272-8b3b-48fb-93e1-f5f6548254dc/00000000-0000-0000-0000-00005b4fcc47"
 					(reference "F16")
 					(unit 1)
